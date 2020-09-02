@@ -3,7 +3,7 @@
 $(function(){
 $("#banner").jCarouselLite({
 	visible: 1,
-	auto: 400,
+	auto: 800,
 	speed:4000
 })
 })
