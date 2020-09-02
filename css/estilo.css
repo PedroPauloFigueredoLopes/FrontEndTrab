@@ -266,6 +266,7 @@ cursor: url('../img/pata-cursor.png'), auto;
     }
 
     #nossos-contatos a{
+        cursor: url('../img/pata-cursor.png'), auto;
         color:#01330b;
     }
 
@@ -375,6 +376,7 @@ cursor: url('../img/pata-cursor.png'), auto;
 }
 
 #prod_lista a{
+    cursor: url('../img/pata-cursor.png'), auto;
     font-weight: bold;
     color:#01330b;
     text-decoration: none;
